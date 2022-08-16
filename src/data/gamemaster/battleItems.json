@@ -51,6 +51,6 @@
 		"itemId": "slow_smoke",
 		"dex": 8,
 		"priority": 8,
-		"cooldown": 40
+		"cooldown": 45
 	}
 ]
